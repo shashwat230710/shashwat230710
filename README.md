@@ -48,7 +48,7 @@
 
 <!-- ⚡ TYPING ANIMATION — Links to YOUR profile, not the typing-svg site -->
 <a href="https://github.com/shashwat230710">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=800&color=F8D030&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%E2%9A%A1+A+Wild+Shashwat+Appeared!+%E2%9A%A1;AI%2FML+Trainer+%7C+LLM+Builder+%7C+DSA+Master;Gotta+Code+'Em+All!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2500&pause=800&color=F8D030&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=%E2%9A%A1+A+Wild+Shashwat+Appeared!+%E2%9A%A1;AI%2FML+%7C+LLM+Builder+%7C+DSA+Master;Gotta+Code+'Em+All!" alt="Typing SVG" />
 </a>
 
 <!-- 🎮 GRADIENT WAVE -->
