@@ -2,6 +2,27 @@
 <!-- ⚡ POKEMON-THEMED GITHUB PROFILE — Shashwat Shukla ⚡ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
+<!--
+╔══════════════════════════════════════════════════════════════════════════╗
+║  🔧 PINNED REPOS CONFIG — Edit repos here for quick changes!          ║
+║                                                                        ║
+║  To change a pinned repo:                                              ║
+║  1. Find the repo entry below (REPO_1 through REPO_7)                 ║
+║  2. Update the repo name in BOTH the <a href="..."> link              ║
+║     AND the <img src="...&repo=REPO_NAME..."> tag                     ║
+║  3. Update the Pokemon + description text below the card              ║
+║                                                                        ║
+║  Current pinned repos:                                                 ║
+║   REPO_1: AI-Research-Assistant-RAG-System-                            ║
+║   REPO_2: Q-A-Chatbot-Using-LangSmith-API                             ║
+║   REPO_3: Fake-News-Detector                                          ║
+║   REPO_4: Next-Word-Predictor                                         ║
+║   REPO_5: air-dash                                                     ║
+║   REPO_6: Netflix-Movie-Data-Analysis                                  ║
+║   REPO_7: OpenAI-and-Ollama                                           ║
+╚══════════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
 <!-- ⚡ POKEBALL OPENER -->
@@ -25,9 +46,9 @@
 
 <br>
 
-<!-- ⚡ TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2500&pause=800&color=F8D030&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%E2%9A%A1+A+Wild+Shashwat+Appeared!+%E2%9A%A1;AI%2FML+Trainer+%7C+LLM+Builder+%7C+DSA+Master;Gotta+Code+'Em+All!" alt="Typing SVG" />
+<!-- ⚡ TYPING ANIMATION — Links to YOUR profile, not the typing-svg site -->
+<a href="https://github.com/shashwat230710">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=800&color=F8D030&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%E2%9A%A1+A+Wild+Shashwat+Appeared!+%E2%9A%A1;AI%2FML+Trainer+%7C+LLM+Builder+%7C+DSA+Master;Gotta+Code+'Em+All!" alt="Typing SVG" />
 </a>
 
 <!-- 🎮 GRADIENT WAVE -->
@@ -196,8 +217,14 @@
 
 </div>
 
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔧 PINNED REPOS — To swap a repo, change the repo name in BOTH the   -->
+<!--    <a href> URL AND the <img src> &repo= parameter below.            -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
 <table align="center">
 <tr>
+<!-- REPO_1: AI-Research-Assistant-RAG-System- -->
 <td width="50%" valign="top">
 
 <a href="https://github.com/shashwat230710/AI-Research-Assistant-RAG-System-">
@@ -210,6 +237,7 @@
 </p>
 
 </td>
+<!-- REPO_2: Q-A-Chatbot-Using-LangSmith-API -->
 <td width="50%" valign="top">
 
 <a href="https://github.com/shashwat230710/Q-A-Chatbot-Using-LangSmith-API">
@@ -224,6 +252,7 @@
 </td>
 </tr>
 <tr>
+<!-- REPO_3: Fake-News-Detector -->
 <td width="50%" valign="top">
 
 <a href="https://github.com/shashwat230710/Fake-News-Detector">
@@ -236,6 +265,7 @@
 </p>
 
 </td>
+<!-- REPO_4: Next-Word-Predictor -->
 <td width="50%" valign="top">
 
 <a href="https://github.com/shashwat230710/Next-Word-Predictor">
@@ -250,6 +280,20 @@
 </td>
 </tr>
 <tr>
+<!-- REPO_5: air-dash (NEW!) -->
+<td width="50%" valign="top">
+
+<a href="https://github.com/shashwat230710/air-dash">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwat230710&repo=air-dash&theme=radical&bg_color=1a1a2e&title_color=F8D030&icon_color=F08030&text_color=ffffff&border_color=F8D030" width="100%" alt="Air Dash"/>
+</a>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif" width="35"/>
+<b>🚀 Hyper Beam — Kotlin App</b>
+</p>
+
+</td>
+<!-- REPO_6: Netflix-Movie-Data-Analysis -->
 <td width="50%" valign="top">
 
 <a href="https://github.com/shashwat230710/Netflix-Movie-Data-Analysis">
@@ -262,6 +306,9 @@
 </p>
 
 </td>
+</tr>
+<tr>
+<!-- REPO_7: OpenAI-and-Ollama -->
 <td width="50%" valign="top">
 
 <a href="https://github.com/shashwat230710/OpenAI-and-Ollama">
@@ -272,6 +319,23 @@
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif" width="40"/>
 <b>🐉 Dragon Force — LLM Integration</b>
 </p>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<br><br>
+
+<a href="https://github.com/shashwat230710?tab=repositories">
+  <img src="https://img.shields.io/badge/🔍_Explore_All_Repos-F8D030?style=for-the-badge&labelColor=1a1a2e" alt="View All Repos"/>
+</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="60" title="Snorlax guarding the repos"/>
+
+<br>
+
+<b><i>More adventures await...</i></b>
 
 </td>
 </tr>
